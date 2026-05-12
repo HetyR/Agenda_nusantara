@@ -36,11 +36,8 @@ Halaman login digunakan untuk masuk ke aplikasi.
 - Input password
 - Validasi login
 - Navigasi ke halaman beranda
-
-https://github.com/HetyR/Agenda_nusantara/blob/main/login.jpg
-
-![Login](login.jpg)
-
+  
+<img src="login.jpg" width="250">
 ---
 
 ## 2. Home Page
