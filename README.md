@@ -1,4 +1,4 @@
-# agenda_nusantara1
+# Agenda Nusantara
 
 Aplikasi Todo List sederhana berbasis Flutter yang dibuat untuk memenuhi tugas Sertikom BNSP DIPA 2026.  
 Aplikasi ini membantu pengguna mencatat dan mengelola tugas penting maupun tugas biasa menggunakan database lokal SQLite.
