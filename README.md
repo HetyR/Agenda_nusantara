@@ -57,6 +57,7 @@ Halaman utama aplikasi setelah login berhasil.
 - Daftar Tugas
 - Pengaturan
 
+<img src="Beranda.jpg" width="250">
 ---
 
 ## 3. Tambah Tugas Penting
@@ -75,6 +76,8 @@ Halaman untuk menambahkan tugas kategori penting.
 - Menyimpan data ke SQLite
 - Tombol kembali ke beranda
 
+<img src="Tugas Penting.jpg" width="250">
+
 ---
 
 ## 4. Tambah Tugas Biasa
@@ -92,6 +95,8 @@ Halaman untuk menambahkan tugas kategori biasa.
 - Menyimpan data sebagai tugas biasa
 - Menggunakan SQLite
 
+<img src="Tugas Biasa.jpg" width="250">
+
 ---
 
 ## 5. Daftar Tugas
@@ -107,6 +112,8 @@ Halaman untuk menampilkan seluruh daftar tugas.
   - Hijau = tugas biasa
 - Menandai tugas selesai
 
+<img src="Daftar Tugas.jpg" width="250">
+
 ---
 
 ## 6. Pengaturan
@@ -119,6 +126,8 @@ Halaman pengaturan akun pengguna.
 - Mengubah password
 - Validasi password lama
 - Menampilkan identitas developer
+
+<img src="Pengaturan.jpg" width="250">
 
 ---
 
